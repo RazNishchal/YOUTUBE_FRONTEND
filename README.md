@@ -1,4 +1,5 @@
 This is a simple project that clone the YOUTUBE's frontend UI. It is just a project donen as an excercise or practoce for frontend development using HTML, CSS, and simple JS.  \
+You can view my Youtube Frontend clone live here:  https://youtube-frontend-tau-lemon.vercel.app/  \
   View live my portfolio : www.nishchalrajsubedi.com.np  \ https://my-portfolio-website-nu-gray.vercel.app/  \
  You can view my other project live here :  \
 Task Tracker with Login and Firebase DB: https://tasktrackernishchal.vercel.app/  \
